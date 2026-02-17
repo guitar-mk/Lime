@@ -25,3 +25,20 @@ werden sollen, und gibt dann den so erhaltenen numerischen Wert 131 aus.
 ### Fließkommazahl
 - float(32bit)
 - double(64bit)
+
+
+## 📏 bsp9 - Der Operator sizeof
+
+Der Operator sizeof ermittelt die Größe eines Datenobjektes. Er dient dazu,
+in Programme maschienenabhängige Datengrößen zu ermitteln.Soll beispielsweise
+für int-Wert speicherplatz angefordert werden, kann  mit sizeof ermittelt werden,
+wie groß int auf diesem speziellen System ist.Der Operator sizeof liefert seinem Wert
+nicht während des Programmlaufs, sondern bereits während des Complierens!
+
+
+
+## 📰 bsp10 - Felder und Zeichenketten (Array)
+ Felder dienen dazu, eine Anzahl von Werten gleichen Types 
+ zu speichern. Das können die Geburtsdaten einer Klasse,
+ die Tagestemperaturen eines Jahres oder der monatliche 
+ Umsatz für ein Jahr sein. 
