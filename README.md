@@ -61,7 +61,7 @@ nicht während des Programmlaufs, sondern bereits während des Complierens!
  ob die Zahl größer, kleiner oder genauso groß ist wie 10.
 
 
- ## ⭐ bsp18 -
+ ## ⭐ bsp18 
  In das Programm lesen wir zwei Ganzzahlen ein.
  Das Programm prüft ob die Zahlen gleich oder Ungleich sind.
 
