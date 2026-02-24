@@ -2,16 +2,20 @@
 #include <iostream>
 using namespace std;
 int main() {
-  struct artikel {
+	struct artikel {
 	int artNr;
-
 	double umsatz;
   };
-  artikel xyz;
-  xyz.artNr=2277;
-  xyz.umsatz=2345.85;
-  cout << "\n" << xyz.artNr;
-  cout << "\n" << xyz.umsatz << "\n";
+  artikel Stift;
+  Stift.artNr=2277;
+  Stift.umsatz=2345.85;
+  cout << "\n" << Stift.artNr;
+  cout << "\n" << Stift.umsatz << "\n";
+	artikel Buch;
+	Stift.artNr=67;
+	Stift.umsatz=100;
+	cout << "\n" << Stift.artNr;
+	cout << "\n" << Stift.umsatz << "\n";
   return 0;
 }  
 
