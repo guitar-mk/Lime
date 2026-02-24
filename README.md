@@ -54,3 +54,8 @@ nicht während des Programmlaufs, sondern bereits während des Complierens!
  Das Programm deklaiert eine Struktur, definiert eine Variable 
  mit dem Typ dieser Struktur, weist den einzelnen Komponenten der Variablen Werte
  zu und druckt diese zur Kontrolle wieder aus.
+
+
+ ##  ☑️ bsp17 - 
+ In das Programm lesen wir eine Zahl ein. Das Pprogramm prüft, 
+ ob die Zahl größer, kleiner oder genauso groß ist wie 10.
