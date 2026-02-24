@@ -65,4 +65,7 @@ nicht während des Programmlaufs, sondern bereits während des Complierens!
  In das Programm lesen wir zwei Ganzzahlen ein.
  Das Programm prüft ob die Zahlen gleich oder Ungleich sind.
 
- 
+ ## 🚡 bsp20
+ In das Programm lesen wir ein Zeichen ein. Mit der switch-case 
+ Anweisung wird eine Fallunterscheidung  durchgeführt. 
+ Abhängig von der Eingabe wird eine Ausgabe erzeugt.
