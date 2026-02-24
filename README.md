@@ -5,7 +5,7 @@ C++ Übungen aus dem Buch: <br>
 von Helmut Erlenkötter [ISBN - 3-499-60077-3]
 
 ## Kompilieren mit g++
-```
+``` 
 g++ bsp10007.cpp -o b7
 ```
 ## 👻 bsp4 - Datentyp Char(Zeichen)
@@ -42,3 +42,15 @@ nicht während des Programmlaufs, sondern bereits während des Complierens!
  zu speichern. Das können die Geburtsdaten einer Klasse,
  die Tagestemperaturen eines Jahres oder der monatliche 
  Umsatz für ein Jahr sein. 
+
+
+ ## 🔤 bsp13 - Array 
+ Das Array wort wird mit 10 Elementen initialisiert.
+ In die ersten 5 Elementen werden die Buchstaben B-I-L-D und die Binäre Null geschrieben.
+
+
+
+ ## ⏰ bsp15 - Strukturen 
+ Das Programm deklaiert eine Struktur, definiert eine Variable 
+ mit dem Typ dieser Struktur, weist den einzelnen Komponenten der Variablen Werte
+ zu und druckt diese zur Kontrolle wieder aus.
