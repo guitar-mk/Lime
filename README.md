@@ -78,3 +78,13 @@ for (<Initialisierung>;<Bedingung>;<Operation>){
 ````
 
 
+## ⚔️ bsp23 - While- und do-while-Schleife
+Eine Kopfgesteuerte Whileschleife zählt die Variable zähler hoch und gibt sie aus.
+````
+While (Zähler < 5) {
+...
+}
+````
+Eine Fußgesteuerte do-while-schleife ließt die Tasteneingabe ein und beendet das Programm wenn man eine Null eingibt.
+
+
