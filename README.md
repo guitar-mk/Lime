@@ -92,3 +92,13 @@ do {
 } while (zaehler !=0)
 ````
 
+
+
+## 🌏 bsp30 - Funktionen
+
+
+
+
+
+
+
