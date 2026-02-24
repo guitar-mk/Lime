@@ -11,6 +11,7 @@ int main() {
   Stift.umsatz=2345.85;
   cout << "\n" << Stift.artNr;
   cout << "\n" << Stift.umsatz << "\n";
+	
 	artikel Buch;
 	Stift.artNr=67;
 	Stift.umsatz=100;
