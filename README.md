@@ -4,7 +4,7 @@
 ![OpenGL](https://img.shields.io/badge/OpenGL-3-5586A4?logo=opengl)
 
 <p align="center">
-  <img src="/img/IMG0444.JPEG" width="800" alt="book">
+  <img src="/img/IMG0444.jpeg" width="800" alt="book">
 </p>
 C++ Übungen aus dem Buch: <br>
 ***Objekorientiertes Programmieren von Anfang an*** <br>
