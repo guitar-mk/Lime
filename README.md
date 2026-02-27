@@ -3,8 +3,6 @@
 ![C++](https://img.shields.io/badge/C++-17-00599C?logo=c%2B%2B)
 ![OpenGL](https://img.shields.io/badge/OpenGL-3-5586A4?logo=opengl)
 
-Ein interaktives, Grid-basiertes Inventarsystem, inspiriert vom klassischen *Resident Evil 4* Aktenkoffer. Entwickelt in C++ mit OpenGL und Dear ImGui.
-
 <p align="center">
   <img src="/img/book.png" width="800" alt="book">
 </p>
