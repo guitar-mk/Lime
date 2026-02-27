@@ -3,8 +3,8 @@
 ![C++](https://img.shields.io/badge/C++-17-00599C?logo=c%2B%2B)
 ![OpenGL](https://img.shields.io/badge/OpenGL-3-5586A4?logo=opengl)
 
-<p align="center">
-<img src="/img/book.png">
+<p align="left">
+<img src="/book.png" width ="320">
 </p>
 
 C++ Übungen aus dem Buch: <br>
