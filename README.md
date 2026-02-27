@@ -4,8 +4,9 @@
 ![OpenGL](https://img.shields.io/badge/OpenGL-3-5586A4?logo=opengl)
 
 <p align="center">
-  <img src="/img/IMG0444.jpeg" alt="book">
+<img src="/img/book.png">
 </p>
+
 C++ Übungen aus dem Buch: <br>
 ***Objekorientiertes Programmieren von Anfang an*** <br>
 von Helmut Erlenkötter [ISBN - 3-499-60077-3]
