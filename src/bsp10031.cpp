@@ -12,7 +12,7 @@ int main() {
     cout << "\n" << &eins;
     cout << "\n" << &zwei;
     cout << "\n" << &drei;
-
+    cout << "\n";
 
     
 

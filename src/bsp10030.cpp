@@ -13,12 +13,12 @@ int main() {
 		cout << "\n" << zaehler();
 	eins();
 	zwei();
-	cout << "\n XYZ hat den Wert" << xyz << endl;
+	cout << "\n XYZ hat den Wert:  " << xyz << endl;
 	return 0;
 }
 
 int zaehler() {
-	static int wert=999;
+	static int wert=12;
 	wert++;
 	return wert;
 }

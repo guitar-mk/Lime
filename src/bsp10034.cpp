@@ -1,4 +1,4 @@
-// bsp10033.cpp
+// bsp10034.cpp
 #include <iostream>
 using namespace std;
 
