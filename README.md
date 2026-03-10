@@ -102,7 +102,9 @@ do {
 
 
 ## 🌏 bsp30 - Funktionen
-
+XYZ ist eine Globale Variable.Sie kann an jeder stelle des Programms stehen.
+Die beiden Funktionen (eins) und (zwei) erhöhen den Wert der Globalen Variablen um eins.
+Die Funktion static verlängert die Lebensdauer der Variablen auf die Programmlaufzeit.
 
 
 
